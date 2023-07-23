@@ -1,0 +1,9 @@
+{
+  "hosting": [
+    {
+      "target": "mar_fe_gc_T19_AuthRickyMortyFrontendApp",
+      "source": ".",
+      "frameworksBackend": {}
+    }
+  ]
+}

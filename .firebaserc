@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "mar-fe-gc-t19": {
+      "hosting": {
+        "mar_fe_gc_T19_AuthRickyMortyFrontendApp": [
+          "mar-fe-gc-t19"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "mar-fe-gc-t19"
+  }
+}
